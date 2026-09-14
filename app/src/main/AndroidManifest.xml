@@ -9,8 +9,7 @@
     <application
         android:allowBackup="true"
         android:label="Lords Bot Root"
-        android:icon="@mipmap/ic_launcher"
-        android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
+        android:theme="@android:style/Theme.Material.NoActionBar">
 
         <activity
             android:name=".MainActivity"
